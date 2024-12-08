@@ -1,3 +1,4 @@
+'use client'
 import { CircleUser, Search, ShoppingCart, Menu, X } from "lucide-react";
 import Link from "next/link";
 import React, { useState } from "react";
