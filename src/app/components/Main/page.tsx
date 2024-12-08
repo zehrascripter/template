@@ -93,7 +93,7 @@ const Main = () => {
                 <nav className="list-none mb-10">
                   <li>
                     <Link href="#" className="text-gray-600 hover:text-black">
-                      For our materials and quality you won't find better prices
+                      For our materials and quality you wont find better prices
                       anywhere
                     </Link>
                   </li>
@@ -304,7 +304,7 @@ const Main = () => {
                 <nav className="list-none mb-10">
                   <li>
                     <Link href="#">
-                      For our materials and quality you won't find better prices
+                      For our materials and quality you wont find better prices
                       anywhere
                     </Link>
                   </li>
